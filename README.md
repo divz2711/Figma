@@ -73,10 +73,13 @@ Figma
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
+![Screenshot 2023-11-12 170834](https://github.com/divz2711/Figma/assets/121245222/d4b1f25e-6f4d-43e8-8660-3628861d22eb)
 
+![ho![![Screenshot 2023-11-12 170044](https://github.com/divz2711/Figma/assets/121245222/1dc6b908-4c25-483f-b6e8-5684144aaaea)
+
+
+![login](https://github.com/divz2711/Figma/assets/121245222/5fb932ec-8493-4d7c-8c8b-12bb7f2d11bc)
+![department](https://github.com/divz2711/Figma/assets/121245222/17a4d186-0a4e-4f53-abd6-450bed412c8e)
 ## RESULT:
+
 The program to design, develop and deploy a web application for event registration is completed successfully.
